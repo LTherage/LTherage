@@ -5,11 +5,11 @@
 
 - 🔭 Mon projet personnel du moment [Projet_Bancaire](https://github.com/LTherage/Projet_Bancaire)
 
-- 🌱 Mon travail actuel **Flask, C (autodidacte), Laravel, NodeJS, NoSQL**
+- 🌱 Mon travail actuel : **Flask, C (autodidacte), Laravel, NodeJS (autodidacte), NoSQL**
 
-- 📝 Mon LinkedIn [https://www.linkedin.com/in/ludovic-th%C3%A9rage/](https://www.linkedin.com/in/ludovic-th%C3%A9rage/)
+- 📝 Mon LinkedIn : [https://www.linkedin.com/in/ludovic-th%C3%A9rage/](https://www.linkedin.com/in/ludovic-th%C3%A9rage/)
 
-- 💬 Plus sur moi **Étant un étudiant qui a la soif d'apprendre de nouvelles choses, je me suis inscrit sur des certifications et m'exerce sur codeInGames ainsi que des entraînements de cybersécurité (TryHackMe). Je suis quelqu'un qui aime avoir un travail qualitatif.**
+- 💬 Plus sur moi : **Étant un étudiant qui a la soif d'apprendre de nouvelles choses, je me suis inscrit sur des certifications et m'exerce sur codeInGames ainsi que des entraînements de cybersécurité (TryHackMe). Je suis quelqu'un qui aime avoir un travail qualitatif.**
 
 - 📫 Mes contacts **ludovictherage2@gmail.com**
 
