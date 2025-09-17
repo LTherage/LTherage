@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ltherage&label=Profile%20views&color=0e75b6&style=flat" alt="ltherage" /> </p>
 
-- 🔭 Mon projet personnel du moment [Projet_Bancaire](https://github.com/LTherage/Projet_Bancaire)
+- 🔭 Mon projet personnel du moment : [Projet_Bancaire](https://github.com/LTherage/Projet_Bancaire)
 
 - 🌱 Mon travail actuel : **Flask, C (autodidacte), Laravel, NodeJS (autodidacte), NoSQL**
 
@@ -11,7 +11,8 @@
 
 - 💬 Plus sur moi : **Étant un étudiant qui a la soif d'apprendre de nouvelles choses, je me suis inscrit sur des certifications et m'exerce sur codeInGames ainsi que des entraînements de cybersécurité (TryHackMe). Je suis quelqu'un qui aime avoir un travail qualitatif.**
 
-- 📫 Mes contacts **ludovictherage2@gmail.com**
+- 📫 Mon email : **ludovictherage2@gmail.com**
+                      
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
