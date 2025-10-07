@@ -1,28 +1,35 @@
 <div align="center">
 
-# 👋 Ludovic Thérage
+<!-- Animation de bienvenue -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=35&duration=3000&color=0077B5&center=true&vCenter=true&width=500&lines=👋+Bonjour+!+Je+suis+Ludovic;💻+Développeur+Back-end;🎓+En+recherche+d'alternance;🚀+Bienvenue+!" alt="Typing Animation" />
 
-**Développeur Back-End | En recherche d'alternance**  
-*Passionné par l'architecture logicielle et les technologies innovantes*
+**Développeur Back-End Passionné | Architecture Logicielle | Technologies Innovantes**
 
-![Profile Views](https://komarev.com/ghpvc/?username=LTherage&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/LTherage?style=flat&color=blue)
-![Status](https://img.shields.io/badge/🎓_En_recherche_d'alternance-blue?style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=LTherage&color=0077B5)
+![GitHub Followers](https://img.shields.io/github/followers/LTherage?style=flat&color=0077B5)
+![Status](https://img.shields.io/badge/🎓_Alternance_Recherchée-0077B5?style=flat)
 
 </div>
 
 ---
 
-## 📋 À Propos
+## 👨‍💻 À Propos
+
+```java
+public class APropos {
+    public static void main(String[] args) {
+        System.out.println("🎯 Passionné par le développement back-end");
+        System.out.println("🚀 Autodidacte et curieux des nouvelles technologies");
+        System.out.println("💡 Créatif dans la résolution de problèmes complexes");
+        System.out.println("📚 En constante évolution et apprentissage");
+    }
+}
 
 <div align="center">
 
-**Étudiant passionné** par le développement back-end et l'architecture logicielle.  
-**Autodidacte** avec une forte curiosité pour les nouvelles technologies.  
-À la **recherche d'une alternance** pour mettre en pratique mes compétences.
-
+Étudiant motivé recherchant une alternance pour mettre en pratique mes compétences et contribuer à des projets innovants.
 </div>
-
+```
 ---
 
 ## 🛠️ Technologies
@@ -144,9 +151,11 @@
 
 ---
 
+💡 Citation du Jour
 <div align="center">
 
-## 💡 "Le code est la poésie de la logique"
+https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default
+</div>
 
 **N'hésitez pas à explorer mes projets et à me contacter pour discuter d'opportunités !**
 
