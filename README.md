@@ -160,13 +160,6 @@ public class APropos {
 
 🙏 Je vous remercie de votre visite !
 
-N'hésitez pas à explorer mes projets et à me contacter pour discuter d'opportunités d'alternance.
-
-💫 Merci de votre visite ! Revenez vite découvrir mes nouveaux projets ! 🚀
-
-https://img.shields.io/badge/%E2%AC%86%EF%B8%8F_Retour_en_Haut-0077B5?style=for-the-badge&logo=arrow-up&logoColor=white
-
-
 ** À bientôt ! 👋 **
 
 </div>
