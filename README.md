@@ -32,6 +32,18 @@ public class APropos {
 ```
 ---
 
+## 📞 Contact
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://ltherage.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludovic-th%C3%A9rage/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LTherage)
+
+</div>
+
+---
+
 ## 🛠️ Technologies
 
 <div align="center">
@@ -101,7 +113,6 @@ public class APropos {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LTherage&show_icons=true&theme=default&hide_border=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTherage&layout=compact&theme=default&hide_border=true" />
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=LTherage&theme=default&hide_border=true)
@@ -119,7 +130,7 @@ public class APropos {
 
 ### 🎯 **Compétences Autodidactes**
 - **Langage C** - Programmation système et algorithmique
-- **Java/JavaScript** - Développement d'applications
+- **JavaScript** - Développement d'applications
 - **Architecture logicielle** - Design patterns et bonnes pratiques
 - **DevOps** - Conteneurisation et déploiement
 
@@ -145,17 +156,6 @@ public class APropos {
 
 </div>
 
-## 📞 Contact
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://ltherage.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludovic-th%C3%A9rage/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LTherage)
-
-</div>
-
----
 
 
 🙏 Je vous remercie de votre visite !
