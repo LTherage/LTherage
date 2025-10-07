@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animation de bienvenue -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=35&duration=3000&color=0077B5&center=true&vCenter=true&width=500&lines=👋+Bonjour+!+Je+suis+Ludovic;💻+Développeur+Back-end;🎓+En+recherche+d'alternance;🚀+Bienvenue+!" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=35&duration=3500&color=0077B5&center=true&vCenter=true&width=500&lines=👋+Bonjour+!+Je+suis+Ludovic;💻+Développeur+Back-end;🎓+En+recherche+d'alternance;🚀+Bienvenue+!" alt="Typing Animation" />
 
 **Développeur Back-End Passionné | Architecture Logicielle | Technologies Innovantes**
 
@@ -132,7 +132,6 @@ public class APropos {
 - **Langage C** - Programmation système et algorithmique
 - **JavaScript** - Développement d'applications
 - **Architecture logicielle** - Design patterns et bonnes pratiques
-- **DevOps** - Conteneurisation et déploiement
 
 ---
 
@@ -150,10 +149,14 @@ public class APropos {
 
 ---
 
-💡 Citation du Jour
-<div align="center" style="border: 2px solid #0077B5; border-radius: 10px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, #000000 0%, #001F3F 100%);">
-🎯 "Écrire du code, c'est facile. Écrire du code propre et maintenable, c'est tout un art"
+💡 Citation Inspirante
+<div align="center" style="border: 2px solid #0077B5; border-radius: 15px; padding: 25px; margin: 25px 0; background: linear-gradient(135deg, #000000 0%, #001F3F 100%); box-shadow: 0 4px 15px rgba(0, 119, 181, 0.3);">
+🎯 "Le code propre est comme une bonne prose : clair, élégant et qui résiste à l'épreuve du temps."
 
+— Robert C. Martin
+</div><!-- Service de citation aléatoire - s'affiche à chaque rechargement --><div align="center">
+
+https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark
 </div>
 
 
