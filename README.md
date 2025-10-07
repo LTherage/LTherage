@@ -149,16 +149,4 @@ public class APropos {
 
 ---
 
-💡 Citation Inspirante
-<div align="center">
 
-https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark
-</div>
-
-
-
-🙏 Je vous remercie de votre visite !
-
-** À bientôt ! 👋 **
-
-</div>
