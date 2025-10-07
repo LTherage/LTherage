@@ -139,6 +139,12 @@ public class APropos {
 
 ---
 
+💡 Citation du Jour
+<div align="center" style="border: 2px solid #0077B5; border-radius: 10px; padding: 20px; margin: 20px 0; background: linear-gradient(135deg, #000000 0%, #001F3F 100%);">
+🎯 "Écrire du code, c'est facile. Écrire du code propre et maintenable, c'est tout un art"
+
+</div>
+
 ## 📞 Contact
 
 <div align="center">
@@ -151,14 +157,16 @@ public class APropos {
 
 ---
 
-💡 Citation du Jour
-<div align="center">
 
-https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default
-</div>
+🙏 Je vous remercie de votre visite !
 
-**N'hésitez pas à explorer mes projets et à me contacter pour discuter d'opportunités !**
+N'hésitez pas à explorer mes projets et à me contacter pour discuter d'opportunités d'alternance.
 
-⭐ **Merci de votre visite !**
+💫 Merci de votre visite ! Revenez vite découvrir mes nouveaux projets ! 🚀
+
+https://img.shields.io/badge/%E2%AC%86%EF%B8%8F_Retour_en_Haut-0077B5?style=for-the-badge&logo=arrow-up&logoColor=white
+
+
+** À bientôt ! 👋 **
 
 </div>
