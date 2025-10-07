@@ -150,11 +150,7 @@ public class APropos {
 ---
 
 💡 Citation Inspirante
-<div align="center" style="border: 2px solid #0077B5; border-radius: 15px; padding: 25px; margin: 25px 0; background: linear-gradient(135deg, #000000 0%, #001F3F 100%); box-shadow: 0 4px 15px rgba(0, 119, 181, 0.3);">
-🎯 "Le code propre est comme une bonne prose : clair, élégant et qui résiste à l'épreuve du temps."
-
-— Robert C. Martin
-</div><!-- Service de citation aléatoire - s'affiche à chaque rechargement --><div align="center">
+<div align="center">
 
 https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark
 </div>
