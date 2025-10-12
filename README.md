@@ -103,7 +103,7 @@ public class APropos {
 ### 🧩 **[2048 Game](https://github.com/LTherage/2048-Project)**
 **Version web du jeu 2048 avec algorithmes optimisés**
 
-- **Technologies :** HTML5, CSS3, JavaScript
+- **Technologies :** HTML5, CSS3, Java, Gradle, JavaFX
 - **Fonctionnalités :** Logique de fusion, système de score, interface responsive
 - **Algorithmes :** Gestion des déplacements, fusion des tuiles
 
