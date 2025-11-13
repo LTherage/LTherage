@@ -6,7 +6,6 @@
 **Développeur Back-End Passionné | Architecture Logicielle | Technologies Innovantes**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LTherage&color=0077B5)
-![GitHub Followers](https://img.shields.io/github/followers/LTherage?style=flat&color=0077B5)
 ![Status](https://img.shields.io/badge/🎓_Alternance_Recherchée-0077B5?style=flat)
 
 </div>
