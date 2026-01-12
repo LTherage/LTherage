@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animation avec largeur augmentée -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=35&duration=4000&color=0077B5&center=true&vCenter=true&width=600&lines=Ludovic+Thérage;💻+Développeur+Back-end;🎓+En+recherche+d'alternance;🚀+Bienvenue+!" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono&size=35&duration=4000&color=0077B5&center=true&vCenter=true&width=600&lines=Ludovic+Thérage;💻+Développeur+Full-Stack+junior+🎓;+Bienvenue+!" alt="Typing Animation" />
 
 **Développeur Back-End Passionné | Architecture Logicielle | Technologies Innovantes**
 
