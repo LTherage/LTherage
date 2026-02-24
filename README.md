@@ -110,9 +110,7 @@ public class APropos {
 ## 📊 Statistiques GitHub
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LTherage&layout=compact&theme=default&hide_border=true" />
-
+    
 ![GitHub Streak](https://streak-stats.demolab.com/?user=LTherage&theme=default&hide_border=true)
 
 </div>
